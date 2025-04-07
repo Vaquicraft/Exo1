@@ -1,0 +1,13 @@
+cd
+mkdir edouard
+cd edouard
+mkdir Backend
+cd Backend
+touch server.js && touch test.js
+cd ..
+mkdir Ressources
+cd Ressources
+touch "Documentation backend" && touch "Documentation frontend"
+mkdir Sources
+cd Sources
+touch "Sites 1" && touch "Sites 2"
